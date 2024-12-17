@@ -10,10 +10,10 @@ setup(
     install_requires=["crewai","crewai-tools"],  # Add dependencies here
     entry_points={
         "console_scripts": [
-            "crewai-run = main:run",
-            "crewai-train = main:train",
-            "crewai-replay = main:replay",
-            "crewai-test = main:test",
+            "crewai-run = basicAgent.main:run",        # Correct path for main.py
+            "crewai-train = basicAgent.main:train",    # Same correction
+            "crewai-replay = basicAgent.main:replay",
+            "crewai-test = basicAgent.main:test",
         ],
     },
     python_requires=">=3.10",
