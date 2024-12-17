@@ -57,10 +57,10 @@ CrewAI is a flexible and powerful AI framework that enables you to create and ma
 
 **Add your `OPENAI_API_KEY` into the `.env` file**
 
-- Modify `src/Crew/config/agents.yaml` to define your agents
-- Modify `src/Crew/config/tasks.yaml` to define your tasks
-- Modify `src/Crew/crew.py` to add your own logic, tools and specific args
-- Modify `src/Crew/main.py` to add custom inputs for your agents and tasks
+- Modify `/config/agents.yaml` to define your agents
+- Modify `/config/tasks.yaml` to define your tasks
+- Modify `crew.py` to add your own logic, tools and specific args
+- Modify `main.py` to add custom inputs for your agents and tasks
 
 ## Set your environment variables
 Before running your crew, make sure you have the following keys set as environment variables in your .env file:
