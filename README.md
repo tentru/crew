@@ -9,23 +9,19 @@ CrewAI enables you to create AI teams where each agent has specific roles, tools
 
 Think of it as assembling your dream team - each member (agent) brings unique skills and expertise, collaborating seamlessly to achieve your objectives.
 
-## Project Structure
+## Feature Plan
+I implemented one agent with CrewAI. anyone can contribute for agents. anyone welcome!
+## How to contribute?
+every agent has own folder. so if you wanna contribute, have to follow bellow code structure.
 ```plaintext
-basicAgent/
-│   README.md
-│   (agent code)
-│
-CSVSearcgAgent/
-│   README.md
-│   (agent code)
-DALLE-Agent/
-│   README.md
-│   (agent code)
-DOCXSearchAgent/
-│   README.md
-│   (agent code)
+  agentname\
+      README.md
+      (agent code)
 ```
-```
-```
+and this folder will be add under this repo!
+## donation
+if you are interested in this project, please donate for this project.
+- COMAI Address:
+5Dr4eTCb1DxtKWNxGqfoLhk8aa1qB1C67DkHfBcRicK5Wq7z
 
 ## License
