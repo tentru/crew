@@ -163,4 +163,8 @@ For support, questions, or feedback regarding the  Crew or crewAI.
 
 Let's create wonders together with the power and simplicity of crewAI.
 
+## Donation
+if you are interested in this project, please donate for this project.
+- COMAI Address:
+5Dr4eTCb1DxtKWNxGqfoLhk8aa1qB1C67DkHfBcRicK5Wq7z
 ## License
